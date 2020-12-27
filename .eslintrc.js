@@ -19,6 +19,6 @@ module.exports = {
   ],
   'rules': {
     'max-len': 'off',
-    'react/prop-types': ['error', {'ignore': ['navigation']}],
+    'react/prop-types': 'off',
   },
 };
